@@ -1,20 +1,90 @@
-<h1 align="center">Hi 👋, I'm Priyanshu</h1>
-<h3 align="center">I like to explore a lot. Can you even blame that?!!!</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshudnd14&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshudnd14" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:30363d&height=200&section=header&text=Priyanshu%20Mohanty&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Physical%20AI%20%7C%20Robotics%20%7C%20MLOps&descAlignY=58&descSize=16" width="100%" alt="banner" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshudnd14" alt="priyanshudnd14" /></a> </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FFFFFF&center=true&vCenter=true&width=560&lines=I+like+to+explore+a+lot.;Can+you+even+blame+that%3F!!!;Building+at+the+edge+of+AI+and+robotics" alt="typing" /></a>
 
-- 🌱 I’m currently learning **React, Node.**
+<br/>
 
-- 📫 How to reach me **priyanshu.mohanty121247@gmail.com**
+<a href="mailto:priyanshu.mohanty121247@gmail.com"><img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshudnd14&show_icons=true&locale=en&layout=compact" alt="priyanshudnd14" /></p>
+### 🎯 About Me
 
+```js
+const priyanshu = {
+  role: "Final-year B.Tech IT student @ VSSUT, Burla",
+  intern: "Software Intern @ SIMHATEL",
+  location: "Odisha, India 🇮🇳",
+
+  focus: [
+    "Physical AI",
+    "Agentic AI systems",
+    "Robotics & drone software",
+  ],
+
+  learning: ["React", "Node.js", "DSA (NeetCode 150)", "AWS"],
+
+  goal: "MLOps / Robotics Automation / AI Engineer",
+
+  funFact: "Won a national-level hackathon with Chakravyuh, a multimodal RAG project",
+};
+```
+
+- 🌱 Currently learning **React** and **Node.js**
+- 🏛️ Deputy Secretary-General, **VSSUT MUN 2026** · Graphics Design Lead, **VSSUT Literary Society**
+- ✍️ I write poetry too, as **अश्रुत**
+- 📫 Reach me at **priyanshu.mohanty121247@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,cpp,js,html,css,react,nodejs,express&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,raspberrypi,aws,vscode&theme=dark" />
+
+</div>
+
+---
+
+### 🚀 Things I've Built
+
+| Project | What it is |
+| :-- | :-- |
+| **Chakravyuh** | Multimodal RAG system, national-level hackathon winner |
+| **Flight Log Analyzer** | Drone flight log analysis service with automated failure diagnosis |
+| **Terrain Pipeline** | GPS-to-3D terrain reconstruction pipeline for drones |
+| **Chronos** | C++ timetable generator that ingests a class schedule |
+
+> Add links to each repo once they're public.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" />
+
+<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:30363d,100:000000&height=100&section=footer" width="100%" alt="footer" />
+
+</div>
