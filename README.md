@@ -32,36 +32,44 @@ wins      : national-level hackathon, with Chakravyuh (multimodal RAG)
 
 ## 🕹️ TECH_STACK.EXE
 
-**Languages**
+<div align="center">
 
+<img src="./assets/tech-deck.svg" width="520" alt="Animated deck of tech stack cards" />
+
+</div>
+
+<details>
+<summary><b>Show the full stack list</b></summary>
+
+<br/>
+
+**Languages**
+<br/>
 <img src="https://skillicons.dev/icons?i=py,c,cpp,js,html,css&theme=dark" />
 
 **Web**
-
+<br/>
 <img src="https://skillicons.dev/icons?i=react,nodejs,express&theme=dark" />
 
 **AI / Data**
-
+<br/>
 <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=b6ff5c" />
 <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=b6ff5c" />
 <img src="https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=b6ff5c" />
-<img src="https://img.shields.io/badge/Agentic_AI-000000?style=for-the-badge&logoColor=b6ff5c&color=000000&labelColor=000000" />
-<img src="https://img.shields.io/badge/Multimodal_RAG-000000?style=for-the-badge&logoColor=b6ff5c&color=000000&labelColor=000000" />
+<img src="https://img.shields.io/badge/Agentic_AI-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Multimodal_RAG-000000?style=for-the-badge" />
 
 **Robotics / Embedded**
-
+<br/>
 <img src="https://skillicons.dev/icons?i=raspberrypi,linux&theme=dark" />
-<img src="https://img.shields.io/badge/PX4-000000?style=for-the-badge&logoColor=b6ff5c&color=000000&labelColor=000000" />
-<img src="https://img.shields.io/badge/Pixhawk_6C-000000?style=for-the-badge&logoColor=b6ff5c&color=000000&labelColor=000000" />
+<img src="https://img.shields.io/badge/PX4-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Pixhawk_6C-000000?style=for-the-badge" />
 
 **Cloud / Tools**
-
+<br/>
 <img src="https://skillicons.dev/icons?i=aws,git,github,vscode&theme=dark" />
 
-**Loading next...**
-
-<img src="https://skillicons.dev/icons?i=docker&theme=dark" />
-<img src="https://img.shields.io/badge/MLOps-000000?style=for-the-badge&logoColor=b6ff5c&color=000000&labelColor=000000" />
+</details>
 
 <br/>
 
@@ -73,6 +81,26 @@ wins      : national-level hackathon, with Chakravyuh (multimodal RAG)
 | **Flight Log Analyzer** | Drone flight log analysis service with automated failure diagnosis |
 | **Terrain Pipeline** | GPS-to-3D terrain reconstruction pipeline for drones |
 | **Chronos** | C++ timetable generator that ingests a class schedule |
+
+<br/>
+
+## 🐍 SNAKE.EXE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" alt="Snake eating my contribution graph" width="100%" />
+
+</div>
+
+<br/>
+
+## 🐟 KOI.EXE
+
+<div align="center">
+
+<img src="koi/koi.gif" width="256" alt="My koi, drawn from my GitHub activity" />
+
+</div>
 
 <br/>
 
@@ -91,18 +119,15 @@ wins      : national-level hackathon, with Chakravyuh (multimodal RAG)
 
 <br/>
 
-## 🐾 QUESTION.EXE
+## 🐾 COLLAB.EXE
 
-```
-┌─ QUESTION.EXE ────────────────────[X]┐
-│                                      │
-│  Want to build something together?   │
-│                                      │
-│       [ YES.. ]    [ MAYBE.. ]       │
-└──────────────────────────────────────┘
-```
+<div align="center">
 
-📫 **priyanshu.mohanty121247@gmail.com**
+<a href="mailto:priyanshu.mohanty121247@gmail.com?subject=Let%27s%20collaborate">
+  <img src="./assets/collab-card.svg" width="100%" alt="Want to build something together? Click to collaborate" />
+</a>
+
+</div>
 
 ```
 $ echo "see you in the next commit"

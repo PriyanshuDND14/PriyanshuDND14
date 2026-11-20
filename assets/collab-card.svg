@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 260" width="1000" height="260" font-family="'Courier New', Courier, monospace">
+<style>
+.btn{animation:nudge 1.4s steps(1,end) infinite}
+@keyframes nudge{0%{transform:translate(0,0)}50%{transform:translate(-3px,-3px)}100%{transform:translate(0,0)}}
+.bob{animation:bob 2s steps(1,end) infinite}
+@keyframes bob{0%{transform:translateY(0)}50%{transform:translateY(-6px)}100%{transform:translateY(0)}}
+</style>
+<defs>
+<pattern id="dp" width="4" height="4" patternUnits="userSpaceOnUse">
+<rect width="1" height="1" fill="#b6ff5c" opacity=".12"/><rect x="2" y="2" width="1" height="1" fill="#b6ff5c" opacity=".12"/></pattern>
+<pattern id="dc" width="4" height="4" patternUnits="userSpaceOnUse">
+<rect width="4" height="4" fill="#b6ff5c"/><rect width="2" height="2" fill="#000" opacity=".16"/><rect x="2" y="2" width="2" height="2" fill="#000" opacity=".16"/></pattern>
+</defs>
+<rect width="1000" height="260" fill="#080808"/>
+<rect x="8" y="8" width="984" height="244" fill="#0f1408"/>
+<rect x="8" y="8" width="984" height="244" fill="url(#dp)"/>
+<rect x="8" y="8" width="984" height="244" fill="none" stroke="#b6ff5c" stroke-width="2"/>
+
+<text x="48" y="62" font-size="15" font-weight="bold" fill="#b6ff5c" letter-spacing="3">OPEN SLOT AVAILABLE</text>
+<text x="48" y="112" font-size="34" fill="#f3efe6" textLength="560" lengthAdjust="spacingAndGlyphs">Want to build something</text>
+<text x="48" y="154" font-size="34" fill="#f3efe6" textLength="330" lengthAdjust="spacingAndGlyphs">together?</text>
+
+<g class="btn">
+<rect x="54" y="178" width="290" height="52" fill="#b6ff5c" opacity=".45"/>
+<rect x="48" y="172" width="290" height="52" fill="#000" stroke="#b6ff5c" stroke-width="3"/>
+<text x="193" y="206" font-size="20" font-weight="bold" fill="#b6ff5c" text-anchor="middle" letter-spacing="3">COLLABORATE</text>
+</g>
+<text x="366" y="204" font-size="14" fill="#9aa58a">priyanshu.mohanty121247@gmail.com</text>
+
+<g transform="translate(700,34)">
+<rect x="8" y="8" width="220" height="196" fill="#b6ff5c" opacity=".25"/>
+<rect width="220" height="196" fill="#b6ff5c"/>
+<rect x="10" y="10" width="64" height="9" fill="#101010"/>
+<rect x="12" y="12" width="8" height="5" fill="#b6ff5c"/><rect x="22" y="12" width="8" height="5" fill="#b6ff5c"/><rect x="32" y="12" width="8" height="5" fill="#b6ff5c"/><rect x="42" y="12" width="8" height="5" fill="#5a5a5a"/>
+<text x="84" y="19" font-size="10" font-weight="bold" fill="#101010">LET'S BUILD</text>
+<rect x="10" y="28" width="200" height="120" fill="url(#dc)" stroke="#101010" stroke-width="2"/>
+<g class="bob"><rect x="72" y="55" width="11" height="11" fill="#f3efe6"/><rect x="138" y="55" width="11" height="11" fill="#f3efe6"/><rect x="72" y="66" width="22" height="11" fill="#f3efe6"/><rect x="127" y="66" width="22" height="11" fill="#f3efe6"/><rect x="72" y="77" width="77" height="11" fill="#f3efe6"/><rect x="72" y="88" width="77" height="11" fill="#f3efe6"/><rect x="72" y="99" width="77" height="11" fill="#f3efe6"/><rect x="83" y="110" width="55" height="11" fill="#f3efe6"/><rect x="83" y="88" width="11" height="11" fill="#101010"/><rect x="127" y="88" width="11" height="11" fill="#101010"/><rect x="105" y="99" width="11" height="11" fill="#eaa0a8"/><rect x="83" y="66" width="11" height="11" fill="#eaa0a8"/><rect x="127" y="66" width="11" height="11" fill="#eaa0a8"/></g>
+<text x="10" y="170" font-size="22" font-weight="900" fill="#101010">COLLAB</text>
+<text x="10" y="187" font-size="10" font-weight="bold" fill="#101010" letter-spacing="1">PHYSICAL AI · ROBOTICS</text>
+</g>
+</svg>
